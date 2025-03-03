@@ -46,11 +46,11 @@ function App() {
         </a>
       </div>
 
-      <div>
 
 
 
-    <div id="map" />
+
+    <div id="map" >
     <script src="https://unpkg.com/maplibre-gl@3.x/dist/maplibre-gl.js"></script>
     <script>
       const apiKey = "v1.public.eyJqdGkiOiI3NzhjODBiZS01OGVlLTQzZDQtYjJlOC1jZWNjOTJkNTI3YTQifUKuSyxdMDBCxkGqmkII1c_7L6T-ewrXS-ALCQbowQsl7HUrkOXY0Rx7KsAHjDqQRASGMNVG6plCk7AjYrZ32S5tZcCRH4Sc7TakT3cIyipnYwA1YbZ0aKTyEnHNfl5uNfzrvw4INKiDNNUJDytyf96qVPCIjNm8Ty1HIJoOtDC37yzp_dacYubxML8pugr35e3RVOGG06W2fEV9j-WvK_QfSyH6MxRltHw5cvfF4ohWJ9sUmO0-U8RPNC3xH2jB2kceMk7vnlEuoz6mBdwzVbDW0q2lPPYXuDEoYqBJfALBslmiIIQrJQVWIiiy4ZCgUJxeeeS28NGXGZvxGLd3cRI.ZWU0ZWIzMTktMWRhNi00Mzg0LTllMzYtNzlmMDU3MjRmYTkx";
